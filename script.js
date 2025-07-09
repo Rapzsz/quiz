@@ -1,3 +1,3 @@
 document.getElementById("startButton").addEventListener("click", function() {
-    window.location.href = "/menu utama/index.HTML";
+    window.location.href = "index2.HTML";
 });
