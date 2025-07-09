@@ -98,7 +98,7 @@ const nextButton = document.getElementById("next-btn");
 const backButton = document.getElementById("back-btn");
 
 backButton.addEventListener("click", () => {
-    window.location.href = "/menu dashboard/index2.html";
+    window.location.href = "index.html";
 });
 
 let currentQuestionIndex = 0;
